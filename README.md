@@ -1,2 +1,2 @@
 # Taskmate
- Simple tasklist with theme changer
+ Simple tasklist with a theme changer.
